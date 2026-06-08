@@ -8,7 +8,7 @@
   "server": {
     "ip": "momos-0gps.aternos.me",
     "port": 18668,
-    "version": "26.1.2",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "The FOOL IS THe EMPEROR",
     "events": {
       "connect": true,
       "disconnect": true,
